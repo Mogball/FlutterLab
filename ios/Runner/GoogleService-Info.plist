@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>824211711129-sj7vhq3ntovop6pk3fuc2njq494dpcqr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.824211711129-sj7vhq3ntovop6pk3fuc2njq494dpcqr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9_-LhJPFf1OdANVpFMcFk-CmGzeOkuOI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>824211711129</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mogball.whereIveBeen</string>
+	<key>PROJECT_ID</key>
+	<string>whereivebeen-44a11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whereivebeen-44a11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:824211711129:ios:e6141c25d497ab20</string>
+	<key>DATABASE_URL</key>
+	<string>https://whereivebeen-44a11.firebaseio.com</string>
+</dict>
+</plist>

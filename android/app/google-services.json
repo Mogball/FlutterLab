@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "824211711129",
+    "firebase_url": "https://whereivebeen-44a11.firebaseio.com",
+    "project_id": "whereivebeen-44a11",
+    "storage_bucket": "whereivebeen-44a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824211711129:android:d5413456f7d5e9fc",
+        "android_client_info": {
+          "package_name": "com.mogball.whereivebeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824211711129-qabifd9tjuio00u8e33g198c960q0hd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mogball.whereivebeen",
+            "certificate_hash": "db6e8d8b627a5196b9b873fccf933a21ed1b50f4"
+          }
+        },
+        {
+          "client_id": "824211711129-kqla8n6scnnntsn9dvh59di996m7m1k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqurrXm_dby4qoKZ6AuCf1TDgEh6UZJIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824211711129-kqla8n6scnnntsn9dvh59di996m7m1k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824211711129-sj7vhq3ntovop6pk3fuc2njq494dpcqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mogball.whereIveBeen"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
